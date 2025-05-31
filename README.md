@@ -26,4 +26,11 @@ Elle permet de gérer les réservations, les clients, les chambres et les presta
 ---
 
 ## 📂 Structure du projet
+Partie2_BD/
+│
+├── app.py # Application Streamlit principale
+├── init_db.py # Script de création et remplissage de la base SQLite
+├── Hotelie.db # Base de données SQLite générée
+├── README.md # Ce fichier
+└── venv/ # Environnement virtuel Python (à ne pas push)
 
